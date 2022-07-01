@@ -1,5 +1,5 @@
 # sbfinalassignment
-Programs used in the development of Systems Biology final project.
+Programs used in the development of Systems Biology final project, all written by me in Python.
 
 This repository includes
 
